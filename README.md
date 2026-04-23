@@ -47,6 +47,11 @@ Order Response:
   "executedQty": "0.0010"
 }
 
+Terminal:
+![img_1.png](img_1.png)
+Log file:
+![img.png](img.png)
+
 ## Logging
 
 All API requests, responses, and errors are logged to a file:

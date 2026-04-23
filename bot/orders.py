@@ -1,4 +1,4 @@
-from Trade_Bot.Bot.Client import get_client
+from bot.client import get_client
 
 client = get_client()
 
