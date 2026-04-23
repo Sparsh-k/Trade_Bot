@@ -1,7 +1,7 @@
 import typer
-from Orders import place_order
-from Validators import validate_input
-from Logging import setup_logger
+from Trade_Bot.Bot.Orders import place_order
+from Trade_Bot.Bot.Validators import validate_input
+from Trade_Bot.Bot.Logging import setup_logger
 import logging
 
 setup_logger()
