@@ -12,20 +12,6 @@ It is built with a clean, modular structure and includes proper logging, validat
 5. Structured logging of requests, responses, and errors
 6. Clean and modular code structure
 
-## Project Structure
-Trade_Bot/
-│
-├── bot/
-│   ├── client.py              # Binance API client wrapper
-│   ├── orders.py              # Order placement logic
-│   ├── validators.py          # Input validation
-│   ├── logging_config.py      # Logging setup
-│
-├── cli.py                     # CLI entry point
-├── requirements.txt
-├── README.md
-└── .gitignore
-
 ## Setup Instructions
 1. Clone the repository
 git clone https://github.com/Sparsh-k/Trade_Bot.git
